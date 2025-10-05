@@ -1,6 +1,6 @@
 # thai-language.com legal and stewardship problem
 
-Cut-down version of several LLM analysis
+***Cut-down version of several LLM analysis***
 
 The technical part (exporting the data) is straightforward compared to the **legal and stewardship problem** of releasing a community-built lexicon into today's environment where commercial "vultures" can swoop in. 
 
