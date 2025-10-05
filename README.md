@@ -1,2 +1,4 @@
 # thai-language.com_notes
-thai-language.com considerations
+
+Just a brain dump of immediate thai-language.com data considerations.
+
